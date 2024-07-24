@@ -1,0 +1,4 @@
+name: nwsBukkitLibrary
+version: '${project.version}'
+main: ru.nwsbukkitlibrary.NwsBukkitLibrary
+api-version: '1.16'
